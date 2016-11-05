@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Oracle:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Oracle_jar</output-path>
+    <root id="archive" name="Oracle.jar">
+      <element id="module-output" name="Oracle" />
+    </root>
+  </artifact>
+</component>
